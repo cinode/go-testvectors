@@ -1,0 +1,12 @@
+{
+   "added_at": "2023-01-20",
+   "blob_name": "T9p+5vJxte//0gUnC7oRExP1yQadbDZfgNNQ48WbDo3m",
+   "decrypted_dataset": null,
+   "description": "Truncated public key",
+   "encryption_key": "AHnSaMjr1qG9XehjHPdzc3cmmU7HNdmBtSCo19kL1QVJ",
+   "go_error_contains": "data truncated while reading public key",
+   "name": "dynamic/attacks/public/003_pubkey_truncated",
+   "update_dataset": "ABHa3Q+UvsoSvrt0JVI0ZRs=",
+   "valid_privately": false,
+   "valid_publicly": false
+}

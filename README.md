@@ -1,1 +1,3 @@
-Cinode - prototype implementation in [go](https://golang.org/) language.
+# Cinode - test vectors
+
+This repository contains various test vectors that can be easily embedded into other golang packages.

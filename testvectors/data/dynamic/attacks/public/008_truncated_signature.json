@@ -1,0 +1,12 @@
+{
+   "added_at": "2023-01-20",
+   "blob_name": "T9p+5vJxte//0gUnC7oRExP1yQadbDZfgNNQ48WbDo3m",
+   "decrypted_dataset": null,
+   "description": "Truncated signature",
+   "encryption_key": "AHnSaMjr1qG9XehjHPdzc3cmmU7HNdmBtSCo19kL1QVJ",
+   "go_error_contains": "data truncated while reading signature",
+   "name": "dynamic/attacks/public/008_truncated_signature",
+   "update_dataset": "ABHa3Q+UvsoSvrt0JVI0ZRv6Wz9XBPGNswi5RdGQJo1fNLk1Ln+XbKVjxQzro6lsghw1DNC5LjCXncInsaCn9jVGrPXjT45FsA==",
+   "valid_privately": false,
+   "valid_publicly": false
+}
